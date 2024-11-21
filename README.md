@@ -1,2 +1,2 @@
-# musclemend
+# Muscle Mend
 musclemend
